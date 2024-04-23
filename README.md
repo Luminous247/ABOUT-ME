@@ -1,6 +1,6 @@
 # ABOUT ME
 - I am Ayomide Abubakar, a Mechanical Engineering Graduate from the PRESTIGEOUS UNIVERSITY OF IBADAN .
-- I am SO Passionate about getting my hands dirty and this made me equip myself with some useful skills in Electrical and Mechanical Engineering field.
+- I am SO Passionate about getting my hands dirty and this made me equip myself with some useful skills in field of Electrical and Mechanical Engineering.
 
 # SKILLS 
 - Basic Python
@@ -12,12 +12,14 @@
 - Embedded
 
 # OUTSIDE ENGINEERING
- - I am Cloud Engineering Undergoing training.
+ - I am Cloud Engineering Student Undergoing training.
 
 # INTEREST
 - waste Management
 - Travel
 - Meeting new people
+- French
+- Beautiful Ladies
   
 # EXPERENCE
 - Over 9year in the field of Electrical Installation and Wiring
