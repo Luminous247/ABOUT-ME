@@ -25,6 +25,7 @@
 - Over 9year in the field of Electrical Installation and Wiring
 - 1 Year Experience In Mechanical Electrical and PLumbing.
 - Over 6month Industrial Training at British American Tobacco
+  
 
 # Fun facts : As at the time of writting this draft i am still playing with my life. Let see how far i would have gone in a month time
 
